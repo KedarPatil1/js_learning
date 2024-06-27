@@ -17,7 +17,7 @@ console.log(d.innerHTML);
 //updated the statement
 h2.innerHTML="dommm"
 
-
+//dom end
 
 
 console.log(`===== Creating new element =======`);
