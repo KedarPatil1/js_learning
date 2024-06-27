@@ -1,0 +1,10 @@
+{
+    "studName": "Kedar",
+    "studId": 1,
+    "stuMob": 2222222,
+    "address": {
+        "street": "abc chouwk",
+        "landmark": "JM Road",
+        "pin": 22222
+    }
+}
